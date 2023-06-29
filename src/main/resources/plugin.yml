@@ -1,0 +1,4 @@
+name: Range
+version: '${project.version}'
+main: me.hephaestus.range.Range
+api-version: '1.19'
